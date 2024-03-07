@@ -1,3 +1,5 @@
+This fork only exists to add a package.json so this package can be consumed in NPM.
+
 ## ng-epoch
 
 ... is an AngularJS component wrapper for the [Epoch](https://github.com/fastly/epoch).
